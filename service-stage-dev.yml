@@ -1,0 +1,9 @@
+server:
+  port: 8083
+
+spring:
+  application:
+    name: service-stage
+    
+common:
+  message: Hello from 'dev' Config Server
