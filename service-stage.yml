@@ -6,4 +6,4 @@ spring:
     name: service-stage
     
 common:
-  message: Hello from Config Server
+  message: Hello from 'default' Config Server
