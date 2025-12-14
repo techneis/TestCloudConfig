@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: spring-test-service-one
+
+user:
+  name: Neeraj
+  department: Engineering
